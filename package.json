@@ -8,8 +8,17 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/async-storage": "^1.6.2",
+    "native-base": "^2.13.8",
     "react": "16.8.6",
-    "react-native": "0.60.5"
+    "react-native": "0.60.5",
+    "react-native-camera": "^3.6.0",
+    "react-native-elements": "^1.2.3",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-permissions": "^2.0.0",
+    "react-native-qrcode-scanner": "^1.2.3",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^1.9.3"
   },
   "devDependencies": {
     "@babel/core": "7.6.0",
