@@ -1,7 +1,5 @@
 import * as React from 'react'
-import {
-  Text,StyleSheet,View,Image,TouchableOpacity
-} from 'react-native'
+import {Text,StyleSheet,View,Image,TouchableOpacity} from 'react-native'
 import { Card, CardItem,Left,Right} from 'native-base'
 import { withNavigation } from 'react-navigation'
 

@@ -2,12 +2,7 @@
  
 import React, { Component } from 'react';
  
-import {
-  Text,
-  Linking,
-  View,
-  ToastAndroid
-} from 'react-native';
+import { Text, Linking,View,ToastAndroid} from 'react-native';
 import { withNavigation } from 'react-navigation';
 import {Icon} from 'react-native-elements'
  

@@ -1,8 +1,6 @@
 import * as React from 'react';
-import {
-  Text,StyleSheet, TouchableOpacity
-} from 'react-native'
-import { Container, Header, Content, Left,Right, View, Button} from 'native-base'
+import {Text,StyleSheet, TouchableOpacity} from 'react-native'
+import { Container, Content, View } from 'native-base'
 import { Icon } from 'react-native-elements'
 import Cardie from './card'
 import Floating from './floatingbut'
