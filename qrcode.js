@@ -2,12 +2,11 @@
  
 import React, { Component } from 'react';
  
-import { Text, Linking,View,ToastAndroid} from 'react-native';
+import { Text, Linking,View,ToastAndroid, TouchableOpacity} from 'react-native';
 import { withNavigation } from 'react-navigation';
 import {Icon} from 'react-native-elements'
  
 import QRCodeScanner from 'react-native-qrcode-scanner';
-import { TouchableHighlight, TouchableOpacity } from 'react-native-gesture-handler';
  
 class ScanScreen extends Component {
   state = {
